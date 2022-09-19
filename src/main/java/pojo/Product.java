@@ -49,4 +49,7 @@ public class Product {
 
     @ExcelProperty("brl")
     private String brl;
+
+    @ExcelProperty("krw")
+    private String krw;
 }
